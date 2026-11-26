@@ -1,0 +1,10 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+banco_estudos/
+materias_faculdade/
+*.md
+!README.md
+.DS_Store
